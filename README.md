@@ -24,4 +24,3 @@
 >
 >JavaScript
 
-![enter image description here](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Gabriel_01p)
