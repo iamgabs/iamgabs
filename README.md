@@ -24,5 +24,5 @@
 >
 >JavaScript
 
-[Twitter](https://twitter.com/Gabriel_01p)
+[Twitter](https://twitter.com/Gabriel_01p) |
 [Instagram](https://www.instagram.com/iamgabc/)
