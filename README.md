@@ -1,16 +1,24 @@
-### Hi there 👋
+## **Gabriel Carvalho**
 
-<!--
-**GabPhoenix/GabPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Hello world! I am 17 years old and I'm  a beginner as programmer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE."
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Living in Garanhuns, Perbambuco - Brazil
+
+#### Languages that I speak:
+ - Engligh 🇬🇧 (advanced level)
+- Spanish 🇪🇸 (beginner level)
+- French 🇫🇷 (beginner level)
+- Portuguese 🇧🇷 (fluently)
+
+#### I have knowledge in:
+
+>Python
+>Html
+>CSS
+
+#### I am learning:
+>MySql
+>JavaScript
+
+![enter image description here](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Gabriel_01p)
