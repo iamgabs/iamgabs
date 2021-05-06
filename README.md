@@ -26,5 +26,5 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@iamgabc-87cefa?style=flat-square&labelColor=87cefa&logo=twitter&logoColor=white&link=https://twitter.com/Gabriel_01p)](https://twitter.com/Gabriel_01p) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Carvalho-006cfd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-98125620a/)](https//:www.linkedin.com/in/gabriel-carvalho-98125620a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Carvalho-006cfd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-98125620a/)](https://www.linkedin.com/in/gabriel-carvalho-98125620a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff007f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iamgabc/)](https://www.instagram.com/iamgabc/)
