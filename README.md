@@ -3,7 +3,7 @@
 "Hello world! I am 17 years old and I'm  a beginner as programmer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE."
 
 
-- Living in Garanhuns, Perbambuco - Brazil
+- Living in Garanhuns, Pernambuco - Brazil
 
 #### Languages that I speak:
  - Engligh 🇬🇧 (advanced level)
