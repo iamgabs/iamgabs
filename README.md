@@ -25,5 +25,5 @@
 >JavaScript
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Gabriel_01p)](https://twitter.com/dieegosf) 
+[![Twitter Badge](https://img.shields.io/badge/-@iamgabc-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Gabriel_01p)](https://twitter.com/dieegosf) 
 [Instagram](https://www.instagram.com/iamgabc/)
