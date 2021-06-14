@@ -1,13 +1,14 @@
 # **Gabriel Carvalho**
 
-"Hello world!" I am 17 years old and I'm  a beginner developer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE.
+</br>
+"Hello world!" I am 17 years old and I'm  a beginner developer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE. </br>
 
-- Living in Garanhuns, Pernambuco - Brazil
+- Living in Garanhuns, Pernambuco - Brazil </br>
 
 ## Idioms
-> Portuguese (fluently) 🇧🇷
-> English (advanced) 🇺🇸
-> Spanish (beginner) 🇪🇸
+> Portuguese (fluently) 🇧🇷 </br>
+> English (advanced) 🇺🇸 </br>
+> Spanish (beginner) 🇪🇸 </br>
 
 <!-- Skills -->
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabphoenix&show_icons=true&locale=en&theme=tokyonight" alt="gabphoenix" /></p>
 
-
+</br>
 <!-- Social media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
