@@ -1,7 +1,7 @@
 <h1>Gabriel carvalho</h1>
 
 </br>
-"Hello world!" I am 17 years old and I'm  a beginner developer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE. </br>
+"Hello world!" I am 18 years old and I'm  a beginner developer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE. </br>
 </br>
 
 - Living in Garanhuns, Pernambuco - Brazil </br>
