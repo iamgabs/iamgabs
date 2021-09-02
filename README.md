@@ -1,31 +1,53 @@
-<!-- Name -->
-<h1>Gabriel carvalho</h1>
+# Hello World 👋
 
-</br>
-"Hello world!" I am 18 years old and I'm  a beginner developer, I'm from Brazil 🇧🇷 and I'm studying Analysis and Systems Development at IFPE. </br>
-</br>
+#### I'm a beginner in Software Development (Studing in IFPE - BR).
 
-- Living in Garanhuns, Pernambuco - Brazil </br>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
-## Idioms
-> Portuguese (fluently) 🇧🇷 </br>
-> English (advanced) 🇺🇸 </br>
-> Spanish (beginner) 🇪🇸 </br>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<!-- Skills -->
-<h2 align = "left">Languages and tools</h2>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>  </p>
+~~~Kotlin
+object **GabPhoenix** {
+ val name = "Gabriel Carvalho"
+ val acknowledgements = "Software Development"
+ 
+ val idioms = "Idioms"
+ val languages = listOf("Portuguese", "English", "Spanish", "French") 
 
- <div height="160em">
-  <!-- Stats -->
-  <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabphoenix&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabphoenix"/>   </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabphoenix&show_icons=true&locale=en&theme=tokyonight" alt="gabphoenix" /></p>
-</div>
+}
+~~~ 
 
-</br>
-<!-- Social media -->
-<h2 align="left">Connect with me:</h2>
+## **Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+## **GitHub Stats**
+
+<a href="https://github.com/GabPhoenix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoenix&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabPhoenix&show_icons=true&theme=dracula&line_height=27" alt="**GabPhoenix** github stats"/>
+</a>
+
+<br><br>
 <p align="left">
-<a href="https://twitter.com/gabriel_01p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriel_01p" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel carvalho" height="30" width="40" /></a>
-<a href="https://instagram.com/@iamgabc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iamgabc" height="30" width="40" /></a>
-</p>
+  <a href="contatotrabalhogab@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contatotrabalhogab@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/gabriel-carvalho-98125620a/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-98125620a/" /></a>
+
+  <a href="https://www.instagram.com/iamgabc/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iamgabc/"/></a>
+</p>  
+
+<!-- Template by VanessaSwerts -->
