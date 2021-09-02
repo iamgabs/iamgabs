@@ -1,6 +1,6 @@
 # Hello World 👋
 
-#### I'm a beginner in Software Development (Studing in IFPE - BR).
+#### I'm a beginner in Software Development (Studing at IFPE - BR).
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
