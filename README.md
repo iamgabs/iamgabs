@@ -31,7 +31,7 @@ object **GabPhoenix** {
 ## **GitHub Stats**
 
 <a href="https://github.com/GabPhoenix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoeenix&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoenix&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
