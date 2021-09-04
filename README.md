@@ -12,9 +12,9 @@ class GabPhoenix:
   name = "Gabriel Carvalho"
   acknowledgements = "Web and Software Development"
 
-  def idioms():
-   idioms = ["Portuguese", "English", "Spanish", "French"]
-   return idioms
+ def idioms():
+  idioms = ["Portuguese", "English", "Spanish", "French"]
+  return idioms
 ~~~ 
 
 ## **Languages and Tools:**  
