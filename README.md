@@ -6,15 +6,15 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-~~~Kotlin
-object **GabPhoenix** {
- val name = "Gabriel Carvalho"
- val acknowledgements = "Software Development"
- 
- val idioms = "Idioms"
- val languages = listOf("Portuguese", "English", "Spanish", "French") 
+~~~python
+class GabPhoenix:
+ def __init__:
+  name = "Gabriel Carvalho"
+  acknowledgements = "Web and Software Development"
 
-}
+  def idioms():
+   idioms = ["Portuguese", "English", "Spanish", "French"]
+   return idioms
 ~~~ 
 
 ## **Languages and Tools:**  
