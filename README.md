@@ -8,9 +8,9 @@
 
 ~~~python
 class GabPhoenix:
- def __init__:
-  name = "Gabriel Carvalho"
-  acknowledgements = "Web and Software Development"
+ def __init__(self):
+  self.name = "Gabriel Carvalho"
+  self.acknowledgements = "Web and Software Development"
 
  def idioms():
   idioms = ["Portuguese", "English", "Spanish", "French"]
@@ -49,6 +49,9 @@ class GabPhoenix:
 
   <a href="https://www.instagram.com/iamgabc/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iamgabc/"/></a>
+ 
+  <a href="https://www.youtube.com/channel/UC3PgfwQY6rSfiGTdAFkNLXQ" alt="YouTube"> 
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC3PgfwQY6rSfiGTdAFkNLXQ?logo=Youtube&style=flat-square">
 </p>  
 
 ![](https://komarev.com/ghpvc/?username=GabPhoenix&color=00ffb3)
