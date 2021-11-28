@@ -41,7 +41,7 @@ class GabPhoenix:
 </a>
 
 <a href="https://github.com/GabPhoenix/">
- <img width=550px align="center" src="https://github-readme-stats.vercel.app/api?username=GabPhoenix&show_icons=true&theme=dracula&line_height=27" alt="**GabPhoenix** github stats"/>
+ <img width=555px align="center" src="https://github-readme-stats.vercel.app/api?username=GabPhoenix&show_icons=true&theme=dracula&line_height=27" alt="**GabPhoenix** github stats"/>
 </a>
 </div>
 
