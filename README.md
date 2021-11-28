@@ -61,6 +61,6 @@ class GabPhoenix:
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC3PgfwQY6rSfiGTdAFkNLXQ?logo=Youtube&style=flat-square">
 </p>  
 
-![](https://komarev.com/ghpvc/?username=GabPhoenix&color=00ffb3)
+![](https://komarev.com/ghpvc/?username=GabPhoenix&color=82052f)
 </div>
 <!-- Template by VanessaSwerts -->
