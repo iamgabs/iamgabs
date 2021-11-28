@@ -33,7 +33,8 @@ class GabPhoenix:
 </div>
 
 
-## **GitHub Stats**
+<div align="center">
+ <h2><b>GitHub Stats</b></h2>
 
 <a href="https://github.com/GabPhoenix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoenix&theme=dracula&hide_langs_below=1" />
@@ -42,9 +43,11 @@ class GabPhoenix:
 <a href="https://github.com/GabPhoenix/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabPhoenix&show_icons=true&theme=dracula&line_height=27" alt="**GabPhoenix** github stats"/>
 </a>
+</div>
 
 <br><br>
-<p align="left">
+<div align="center">
+<p align="center">
   <a href="contatotrabalhogab@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contatotrabalhogab@gmail.com" /></a>
 
@@ -59,5 +62,5 @@ class GabPhoenix:
 </p>  
 
 ![](https://komarev.com/ghpvc/?username=GabPhoenix&color=00ffb3)
-
+</div>
 <!-- Template by VanessaSwerts -->
