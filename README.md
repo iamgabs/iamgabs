@@ -37,7 +37,7 @@ class GabPhoenix:
  <h2><b>GitHub Stats</b></h2>
 
 <a href="https://github.com/GabPhoenix">
-  <img width=300px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoenix&theme=dracula&hide_langs_below=1" />
+  <img width=316px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoenix&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/GabPhoenix/">
