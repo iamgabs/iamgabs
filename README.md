@@ -30,22 +30,8 @@ class GabPhoenix:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt='MySQL'></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt='Postgresql' ></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt='js' ></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt='sass' ></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt='windows' ></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt='linux' ></code>
-</div>
-
-
-<div align="center">
- <h2><b>GitHub Stats</b></h2>
-
-<a href="https://github.com/GabPhoenix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPhoenix&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/GabPhoenix/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabPhoenix&show_icons=true&theme=dracula&line_height=27" alt="**GabPhoenix** github stats"/>
-</a>
 </div>
 
 <br><br>
