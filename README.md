@@ -40,10 +40,10 @@ class GabPhoenix:
   <a href="contatotrabalhogab@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contatotrabalhogab@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/gabriel-carvalho-98125620a/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/iamgabs/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-98125620a/" /></a>
 
-  <a href="https://www.instagram.com/iamgabc/" alt="Instagram">
+  <a href="https://www.instagram.com/iamgabsc/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iamgabc/"/></a>
  
   <a href="https://www.youtube.com/channel/UC3PgfwQY6rSfiGTdAFkNLXQ" alt="YouTube"> 
