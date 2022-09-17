@@ -1,6 +1,6 @@
 # Hello World 👋
 
-#### I'm a beginner in Gabriel Carvalho, I am a Junior software developer studing at IFPE - BR.
+#### I'm Gabriel Carvalho, I am a Junior software developer studing at IFPE - BR.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
