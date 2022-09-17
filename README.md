@@ -1,6 +1,6 @@
 # Hello World 👋
 
-#### I'm a beginner in Software Development (Studing at IFPE - BR).
+#### I'm a beginner in Gabriel Carvalho, I am a Junior software developer studing at IFPE - BR.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -13,7 +13,7 @@ class GabPhoenix:
   self.acknowledgements = "Web and Software Development"
 
  def idioms():
-  idioms = ["Portuguese", "English", "Spanish", "French"]
+  idioms = ["Portuguese", "English", "Spanish"]
   return idioms
 ~~~ 
 
