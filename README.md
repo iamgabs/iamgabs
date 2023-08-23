@@ -23,9 +23,6 @@ class AboutMe:
 
 <br><br>
 
-[![Iamgabs's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgabs&custom_title=Iamgabs's%20GitHub%20Activity%20Graph&bg_color=000000&color=00eefa&line=0071fa&point=0096fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br>
-
 <div align="center">
 <h2><b>Contact:</b></h2>
   <a href="mailto:contatotrabalhogab@gmail.com" alt="Gmail">
