@@ -1,6 +1,6 @@
 # Hello World 👋
 
-#### I am Gabriel Carvalho, I'm a Junior software developer. 
+Hello, I'm a passionate Full Stack developer on a continuous journey of skill enhancement. I'm currently pursuing my degree in Analysis and Development at the Federal Institute of Pernambuco, always striving to stay at the forefront of technologies. My experience encompasses a variety of tools, including Java and SpringBoot for backend robustness, as well as JavaScript and ReactJS for crafting engaging frontend experiences. Additionally, I'm well-versed in Python and Django, and proficient in relational databases such as PostgreSQL and MySQL. My expertise also covers industry best practices, including version control with Git, web development with HTML/CSS and SASS/SCSS, and proficient operation within Linux environments. I'm eager to contribute to challenging projects and collaborate within innovative teams.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -10,7 +10,7 @@
 class AboutMe:
  def __init__(self):
   self.name = "Gabriel Carvalho"
-  self.acknowledgements = "Web and Software Development"
+  self.acknowledgements = "Software Development and Data Science"
 
  def idioms():
   return ["Portuguese", "English", "Spanish"]
@@ -18,7 +18,7 @@ class AboutMe:
 
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
-<img src="https://skillicons.dev/icons?i=py,java,js,react,postgres,mysql,spring,html,css,sass,git,linux" alt="skillss">
+<img src="https://skillicons.dev/icons?i=py,java,js,react,postgres,mysql,mongodb,spring,django,html,css,sass,scss,git,linux" alt="skillss">
 </div>
 
 <br><br>
