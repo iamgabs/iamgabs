@@ -18,7 +18,7 @@ class AboutMe:
 
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,react,postgres,mysql,mongodb,spring,django,html,css,sass,git,linux,gcp,docker,kubernetes,selenium,bash,express,nodejs,androidstudio,firebase,figma,vscode,newrelic&perline=14" alt="skillss">
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,react,postgres,mysql,mongodb,spring,django,html,css,sass,git,linux,gcp,docker,kubernetes,selenium,bash,express,nodejs,androidstudio,firebase,figma,vscode,zabbix,newrelic&perline=14" alt="skillss">
 </div>
 
 <br><br>
