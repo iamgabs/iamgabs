@@ -1,6 +1,7 @@
 # Hello World 👋
 
-Hello, I'm a passionate Full Stack developer on a continuous journey of skill enhancement. I'm currently pursuing my degree in Analysis and Development at the Federal Institute of Pernambuco, always striving to stay at the forefront of technologies. My experience encompasses a variety of tools, including Java and SpringBoot for backend robustness, as well as JavaScript and ReactJS for crafting engaging frontend experiences. Additionally, I'm well-versed in Python and Django, and proficient in relational databases such as PostgreSQL and MySQL. My expertise also covers industry best practices, including version control with Git, web development with HTML/CSS and SASS/SCSS, and proficient operation within Linux environments. I'm eager to contribute to challenging projects and collaborate within innovative teams.
+Hello, I'm a DataOps Engineer, currently working with projects of data ingestion, infrastructure modernization and machine learning.
+I'm certified Google Professional Cloud Architect and Google Associate Cloud Engineer
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -10,8 +11,6 @@ Hello, I'm a passionate Full Stack developer on a continuous journey of skill en
 class AboutMe:
  def __init__(self):
   self.name = "Gabriel Carvalho"
-  self.acknowledgements = "Software Development and Data Science"
-
  def idioms():
   return ["Portuguese", "English", "Spanish"]
 ~~~ 
