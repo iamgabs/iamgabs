@@ -41,14 +41,14 @@ Languages and Technologies: `Python`, `Django`, `SQL`, `PostgreSQL`, `ReactJS`, 
 
 [<img align="left" height="94px" width="94px" alt="NEES - UFAL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRNbKAiEDFgdB7EDOYt48cNWe5WX7o2qsPg&s"/>](https://www.nees.ufal.br/)
 
-**Student Researcher** \
+**Software Engineer Student Researcher** \
 [**NEES - UFAL**](https://www.nees.ufal.br/) • Contract \
 Languages and Technologies: `Python`, `Django`, `SQL`, `PostgreSQL`, `ReactJS`, `TypeScript`\
 <br/>
 
 [<img align="left" height="94px" width="94px" style="background:white;" alt="IFPE Garanhuns" src="https://portais.univasf.edu.br/cartes/imagens/ifpe.png/@@images/4d3ee7ba-c865-4bd5-87fd-0e51fa19fbda.png"/>](https://portal.ifpe.edu.br/garanhuns/)
 
-**Student Researcher** \
+**Machine Learning Student Researcher** \
 [**IFPE - Garanhuns**](https://portal.ifpe.edu.br/garanhuns/) • Contract \
 Languages and Technologies: `Python`, `Ipynb`, `Statistics` \
 <br/>
