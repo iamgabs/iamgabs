@@ -1,19 +1,60 @@
-# Hello World 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Hello, I'm a DataOps Engineer, currently working with projects of data ingestion, infrastructure modernization and machine learning.
-I'm certified Google Professional Cloud Architect and Google Associate Cloud Engineer
+### Hello, I am Gabriel Carvalho!
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+<img src="https://img.shields.io/static/v1?label=Overview&message=iamgabs&color=8e11ed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<p>I'm a Data Ops Engineer currently working on data ingestion, infrastructure modernization, and machine learning projects.
+I'm certified Google Professional Cloud Architect and Google Associate Cloud Engineer</p>
 
-~~~python
-class AboutMe:
- def __init__(self):
-  self.name = "Gabriel Carvalho"
- def idioms():
-  return ["Portuguese", "English", "Spanish"]
-~~~ 
+### Working Experience
+
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
+
+**Mid Level Data Engineer** \
+[**Sauter Digital**](https://sauter.digital/) • Full-time \
+Languages and Technologies: `Google Cloud Platform`, `Python`, `Apache Airflow`, `SQL`, `BigQuery`, `ETL`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
+
+**Data Engineer** \
+[**Sauter Digital**](https://sauter.digital/) • Full-time \
+Languages and Technologies: `Google Cloud Platform`, `Python`, `Apache Airflow`, `SQL`, `BigQuery`, `ETL`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
+
+**Devops & Data Intern** \
+[**Sauter Digital**](https://sauter.digital/) • Full-time \
+Languages and Technologies: `Google Cloud Platform`, `Terraform`, `Github Actions`, `New Relic`, `Zabbix`, `Python`, `Typescript`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="NEES - UFAL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRNbKAiEDFgdB7EDOYt48cNWe5WX7o2qsPg&s"/>](https://www.nees.ufal.br/)
+
+**Researcher/FullStack Developer** \
+[**NEES - UFAL**](https://www.nees.ufal.br/) • Contract \
+Languages and Technologies: `Python`, `Django`, `SQL`, `PostgreSQL`, `ReactJS`, `TypeScript`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="NEES - UFAL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRNbKAiEDFgdB7EDOYt48cNWe5WX7o2qsPg&s"/>](https://www.nees.ufal.br/)
+
+**Student Researcher** \
+[**NEES - UFAL**](https://www.nees.ufal.br/) • Contract \
+Languages and Technologies: `Python`, `Django`, `SQL`, `PostgreSQL`, `ReactJS`, `TypeScript`\
+<br/>
+
+[<img align="left" height="94px" width="94px" style="background:white;" alt="IFPE Garanhuns" src="https://portais.univasf.edu.br/cartes/imagens/ifpe.png/@@images/4d3ee7ba-c865-4bd5-87fd-0e51fa19fbda.png"/>](https://portal.ifpe.edu.br/garanhuns/)
+
+**Student Researcher** \
+[**IFPE - Garanhuns**](https://portal.ifpe.edu.br/garanhuns/) • Contract \
+Languages and Technologies: `Python`, `Ipynb`, `Statistics` \
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/iamgabs/) for a more detailed description of my work experience, education, and certification.
 
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
