@@ -13,7 +13,7 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
 
-**Mid Level Data Engineer** \
+**Mid Level Data Engineer III** \
 [**Sauter Digital**](https://sauter.digital/) • Full-time \
 Languages and Technologies: `Google Cloud Platform`, `Python`, `Apache Airflow`, `SQL`, `BigQuery`, `ETL`\
 <br/>
