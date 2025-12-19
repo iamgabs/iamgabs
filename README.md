@@ -4,55 +4,8 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=iamgabs&color=8e11ed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I'm a Data Ops Engineer currently working on data ingestion, infrastructure modernization, and machine learning projects.
-I'm certified Google Professional Cloud Architect and Google Associate Cloud Engineer</p>
-
-### Working Experience
-
-In the overview below you will find my most recent work experience:
-
-[<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
-
-**Mid Level Data Engineer III** \
-[**Sauter Digital**](https://sauter.digital/) • Full-time \
-Languages and Technologies: `Google Cloud Platform`, `Python`, `Apache Airflow`, `SQL`, `BigQuery`, `ETL`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
-
-**Data Engineer** \
-[**Sauter Digital**](https://sauter.digital/) • Full-time \
-Languages and Technologies: `Google Cloud Platform`, `Python`, `Apache Airflow`, `SQL`, `BigQuery`, `ETL`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Sauter Digital" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sauter.digital&size=64"/>](https://sauter.digital/)
-
-**Devops & Data Intern** \
-[**Sauter Digital**](https://sauter.digital/) • Full-time \
-Languages and Technologies: `Google Cloud Platform`, `Terraform`, `Github Actions`, `New Relic`, `Zabbix`, `Python`, `Typescript`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="NEES - UFAL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRNbKAiEDFgdB7EDOYt48cNWe5WX7o2qsPg&s"/>](https://www.nees.ufal.br/)
-
-**Researcher/FullStack Developer** \
-[**NEES - UFAL**](https://www.nees.ufal.br/) • Contract \
-Languages and Technologies: `Python`, `Django`, `SQL`, `PostgreSQL`, `ReactJS`, `TypeScript`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="NEES - UFAL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRNbKAiEDFgdB7EDOYt48cNWe5WX7o2qsPg&s"/>](https://www.nees.ufal.br/)
-
-**Software Engineer Student Researcher** \
-[**NEES - UFAL**](https://www.nees.ufal.br/) • Contract \
-Languages and Technologies: `Python`, `Django`, `SQL`, `PostgreSQL`, `ReactJS`, `TypeScript`\
-<br/>
-
-[<img align="left" height="94px" width="94px" style="background:white;" alt="IFPE Garanhuns" src="https://portais.univasf.edu.br/cartes/imagens/ifpe.png/@@images/4d3ee7ba-c865-4bd5-87fd-0e51fa19fbda.png"/>](https://portal.ifpe.edu.br/garanhuns/)
-
-**Machine Learning Student Researcher** \
-[**IFPE - Garanhuns**](https://portal.ifpe.edu.br/garanhuns/) • Contract \
-Languages and Technologies: `Python`, `Ipynb`, `Statistics` \
-<br/>
-<br/>
+<p>I'm a Data/AI Engineer & ML Researcher currently working on data ingestion, data infrastructure modernization, AI agents and systems, and machine learning projects.
+I'm a certified Google Cloud Professional</p>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/iamgabs/) for a more detailed description of my work experience, education, and certification.
 
