@@ -9,12 +9,14 @@ I'm a certified Google Cloud Professional</p>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/iamgabs/) for a more detailed description of my work experience, education, and certification.
 
+<br><br>
+
 <div align="center">
 <h2><b>Languages and Tools:</b></h2>
 <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,r,julia,react,next,postgres,mysql,mongodb,spring,django,fastapi,terraform,github,githubactions,gitlab,html,css,sass,git,linux,gcp,aws,docker,kubernetes,selenium,bash,express,nodejs,cypress,androidstudio,firebase,figma,tailwind,graphql,pytorch,grafana,prometheus&perline=14" alt="skillss">
 </div>
 
-<br><br>
+
 
 <div align="center">
 <h2><b>Contact:</b></h2>
